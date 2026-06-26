@@ -3,8 +3,8 @@
 
 ---
 
-### 🌸 Sobre mí
-**Técnico de Sistemas** en evolución constante hacia la **Ingeniería de Datos y Cloud**.
+###  Sobre mí
+**Analista de Ciberseguridad y Pentester** en evolución constante hacia la **Dynamics y PowerPlatform 5**.
 Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻📈
 
 ---
