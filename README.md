@@ -38,7 +38,7 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻�
   <img src="https://img.shields.io/badge/LinkedIn-B8D7E3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:angelgj01@hotmail.com">
-  <img with=0.5 src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/gmail.svg"/>
+  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-outlook.svg"/>
 </a>
 <a href="https://github.com/AngelGallego01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AngelGallego01" height="30" width="40" />
 </a>
