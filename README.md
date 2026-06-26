@@ -34,7 +34,7 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻�
 ### Conéctate conmigo:
 <br>
 
-<p align="left">
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/angel-gallego-jimenez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
