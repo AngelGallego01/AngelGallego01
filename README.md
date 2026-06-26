@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&colorStart=E0C3FC&colorEnd=F4D1D1&height=220&section=header&text=Aurora%20Fernández&fontSize=50&fontColor=ffffff" alt="Banner de Angel Gallego Jimenez" />
 
 ---
 
