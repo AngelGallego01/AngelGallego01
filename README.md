@@ -40,7 +40,7 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻�
 <a href="mailto:angelgj01@hotmail.com">
   <img src="https://img.shields.io/badge/Email-F4D1D1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/AngelGallego01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AngelGallego01" height="30" width="40" />
+<a href="https://github.com/AngelGallego01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AngelGallego01" height="30" width="40" />
 </a>
 
 <br><br>
