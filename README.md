@@ -31,17 +31,25 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻�
 
 ---
 
-###  Conéctate conmigo:
+### Conéctate conmigo:
 <br>
 
-<a href="https://www.linkedin.com/in/angel-gallego-jimenez/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-B8D7E3?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:angelgj01@hotmail.com">
-  <img src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-outlook.svg"/>
-</a>
-<a href="https://github.com/AngelGallego01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AngelGallego01" height="30" width="40" />
-</a>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/angel-gallego-jimenez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <!-- Correo (Outlook/Hotmail) -->
+  <a href="mailto:angelgj01@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Email" />
+  </a>
+  &nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/AngelGallego01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
+  </a>
+</p>
 
 <br><br>
 
