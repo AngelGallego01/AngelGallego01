@@ -34,23 +34,24 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻�
 ### Conéctate conmigo:
 <br>
 
-<p align="center">
-  <!-- LinkedIn -->
+<div align="center">
+  <!-- LinkedIn (Badge Cuadrado) -->
   <a href="https://www.linkedin.com/in/angel-gallego-jimenez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=app-flat&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <!-- Correo (Outlook/Hotmail) -->
+  <!-- Gmail (Badge Cuadrado) -->
+  <a href="mailto:TU_CORREO_DE_GMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=app-flat&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+  </a>
+  <!-- Hotmail/Outlook (Badge Cuadrado) -->
   <a href="mailto:angelgj01@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Email" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=app-flat&logo=microsoftoutlook&logoColor=white" height="40" alt="Hotmail" />
   </a>
-  &nbsp;
-  <!-- GitHub -->
+  <!-- GitHub (Badge Cuadrado) -->
   <a href="https://github.com/AngelGallego01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=app-flat&logo=github&logoColor=white" height="40" alt="GitHub" />
   </a>
-</p>
+</div>
 
 <br><br>
-
 ---
