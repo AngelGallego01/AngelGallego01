@@ -27,6 +27,7 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻�
 * ☁️ **Proyectos Cloud:** Desplegando y optimizando arquitecturas en la nube.
 * 📊 **Ingeniería de Datos:** Creando pipelines de datos eficientes.
 * 🛠️ **Sistemas:** Aplicando mi experiencia para asegurar robustez.
+* 🕵️ **Ciberseguridad** Mejorando los conocimientos en Seguridad Informatica
 
 ---
 
