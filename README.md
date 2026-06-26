@@ -4,7 +4,7 @@
 ---
 
 ###  Sobre mí
-**Analista de Ciberseguridad y Pentester** en evolución constante hacia la **Dynamics y PowerPlatform 5**.
+**Analista de Ciberseguridad y Pentester** en evolución constante hacia **Dynamics y PowerPlatform 5**.
 Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻📈
 
 ---
