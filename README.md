@@ -14,7 +14,7 @@ Me apasiona fusionar el desarrollo de software tradicional con la seguridad info
 
 ### 🎓 Educación y Especialización
 * 🎓 **Doble Grado Superior (DAM & DAW):** Desarrollo de Aplicaciones Multiplataforma y Desarrollo de Aplicaciones Web.
-* 🛡️ **Especialización en Ciberseguridad:** Análisis de vulnerabilidades, seguridad en redes y protección del ciclo de vida del software (DevSecOps).
+* 🛡️ **Especialización en Ciberseguridad:** Formación centrada en la detección de vulnerabilidades, auditorías de seguridad en sistemas y aplicaciones, hacking ético y mitigación de riesgos (Pruebas de penetración).
 * 🎯 **Enfoque Actual:** Especializándome en **Dynamics 365** y **Power Platform 5** (Power Apps, Power Automate, Power BI) para el diseño de soluciones corporativas inteligentes.
 
 ---
