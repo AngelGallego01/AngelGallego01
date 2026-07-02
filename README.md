@@ -63,7 +63,7 @@ Para potenciar mi perfil técnico, cuento con las siguientes certificaciones de 
 
 ### 🫧 En qué estoy trabajando
 * ⚙️ **Dynamics 365 & Power Platform:** Desarrollando extensiones y automatizaciones de procesos de negocio corporativos.
-* 🛡️ **Seguridad Avanzada:** Asegurando entornos e integraciones en la nube (Securing Low-Code/No-Code environments).
+* 🛡️ **Seguridad Defensiva y Pentesting:** Aplicando mi experiencia como analista para auditar y securizar entornos e integraciones en la nube (Securing Low-Code/No-Code environments).
 * ☁️ **Proyectos Cloud:** Configuración, gobierno y despliegue seguro de arquitecturas en Microsoft Azure.
 * 📊 **Ingeniería de Datos:** Estructurando e integrando flujos eficientes de datos para la toma de decisiones.
 
