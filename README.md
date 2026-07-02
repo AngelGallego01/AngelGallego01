@@ -17,8 +17,6 @@ Me encanta convertir datos complejos en soluciones útiles y eficientes. 💻�
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelGallego01&show_icons=true&locale=es&layout=compact" alt="AngelGallego01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelGallego01&show_icons=true&locale=es" alt="AngelGallego01" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelGallego01&" alt="AngelGallego01" /></p>
 
 
