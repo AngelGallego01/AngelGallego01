@@ -26,7 +26,7 @@ Para potenciar mi perfil técnico, cuento con las siguientes certificaciones de 
   <img src="https://img.shields.io/badge/Cisco_CSST-Cybersecurity-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CSST" />
   <img src="https://img.shields.io/badge/Microsoft-Azure_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AZ-900" />
   <img src="https://img.shields.io/badge/Microsoft-Security_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-900" />
-  <img src="https://img.shields.io/badge/Microsoft-AI_Fundamentals_AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-900" />
+  <img src="https://img.shields.io/badge/Microsoft-AI_Fundamentals_AB--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-900" />
 </p>
 
 ---
