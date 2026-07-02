@@ -26,7 +26,7 @@ Para potenciar mi perfil técnico, cuento con las siguientes certificaciones de 
   <img src="https://img.shields.io/badge/Cisco_CSST-Cybersecurity-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CSST" />
   <img src="https://img.shields.io/badge/Microsoft-Azure_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AZ-900" />
   <img src="https://img.shields.io/badge/Microsoft-Security_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-900" />
-  <img src="https://img.shields.io/badge/Microsoft-Business_AB--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AB-900" />
+  <img src="https://img.shields.io/badge/Microsoft-Agent_Admin_AB--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AB-900" />
 </p>
 
 ---
@@ -54,9 +54,6 @@ Para potenciar mi perfil técnico, cuento con las siguientes certificaciones de 
   <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelGallego01&show_icons=true&locale=es&layout=compact" alt="AngelGallego01" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelGallego01&" alt="AngelGallego01" />
