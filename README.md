@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner Soft](https://capsule-render.vercel.app/api?type=soft&height=220&color=gradient&customColorList=25,27,28&text=Angel%20Gallego%C3%&fontSize=55&fontColor=ffffff)
+![Banner Soft](https://capsule-render.vercel.app/api?type=soft&height=220&color=gradient&customColorList=25,27,28&text=Angel%20Gallego%&fontSize=55&fontColor=FF03CE)
 
 ---
 
