@@ -5,17 +5,17 @@
 ---
 
 ### 💻 Sobre mí
-Técnico Superior en **Doble Grado de Programación (DAM & DAW)** con especialización en **Ciberseguridad**. 
-Actualmente, estoy enfocando mi carrera profesional y evolución constante hacia las soluciones empresariales de **Microsoft Dynamics 365** y el ecosistema **Power Platform**. 
+Profesional IT especializado en **Ciberseguridad Cloud y DevSecOps**, con una sólida base técnica en **Desarrollo Multiplataforma y Web (DAM & DAW)**. 
+Actualmente, enfoco mi evolución profesional en la protección de infraestructuras corporativas, la automatización segura y la gestión de vulnerabilidades en entornos **Microsoft Azure**. 
 
-Me apasiona fusionar el desarrollo de software tradicional con la seguridad informática, convirtiendo datos complejos en arquitecturas robustas, automatizadas y eficientes. 🚀🛡️
+Me apasiona fusionar mi conocimiento interno del desarrollo de software con la seguridad informática, aplicando principios de *Security by Design* para crear arquitecturas robustas, seguras y eficientes. 🚀🛡️
 
 ---
 
 ### 🎓 Educación y Especialización
-* 🎓 **Doble Grado Superior (DAM & DAW):** Desarrollo de Aplicaciones Multiplataforma y Desarrollo de Aplicaciones Web.
-* 🛡️ **Especialización en Ciberseguridad:** Formación centrada en la detección de vulnerabilidades, auditorías de seguridad en sistemas y aplicaciones, hacking ético y mitigación de riesgos (Pruebas de penetración).
-* 🎯 **Enfoque Actual:** Especializándome en **Dynamics 365** y **Power Platform 5** (Power Apps, Power Automate, Power BI) para el diseño de soluciones corporativas inteligentes.
+* ☁️ **Máster en Ciberseguridad Cloud y DevSecOps:** (Tajamar). Especialización en gobierno, despliegue seguro y arquitecturas en la nube.
+* 🛡️ **Ciberseguridad y Pentesting:** Preparación activa para la certificación ofensiva **eJPT** mediante laboratorios prácticos y auditoría de sistemas.
+* 💻 **Doble Grado Superior (DAM & DAW):** Desarrollo de Aplicaciones Multiplataforma y Desarrollo de Aplicaciones Web.
 
 ---
 
@@ -26,7 +26,8 @@ Para potenciar mi perfil técnico, cuento con las siguientes certificaciones de 
   <img src="https://img.shields.io/badge/Cisco_CSST-Cybersecurity-005A9C?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CSST" />
   <img src="https://img.shields.io/badge/Microsoft-Azure_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AZ-900" />
   <img src="https://img.shields.io/badge/Microsoft-Security_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-900" />
-  <img src="https://img.shields.io/badge/Microsoft-Agent_Admin_AB--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AB-900" />
+  <img src="https://img.shields.io/badge/Microsoft-Data_DP--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DP-900" />
+  <img src="https://img.shields.io/badge/Microsoft-Copilot_Admin_AB--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AB-900" />
 </p>
 
 ---
@@ -54,7 +55,6 @@ Para potenciar mi perfil técnico, cuento con las siguientes certificaciones de 
   <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a>
 </p>
 
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelGallego01&" alt="AngelGallego01" />
 </p>
@@ -62,14 +62,14 @@ Para potenciar mi perfil técnico, cuento con las siguientes certificaciones de 
 ---
 
 ### 🫧 En qué estoy trabajando
-* ⚙️ **Dynamics 365 & Power Platform:** Desarrollando extensiones y automatizaciones de procesos de negocio corporativos.
-* 🛡️ **Seguridad Defensiva y Pentesting:** Aplicando mi experiencia como analista para auditar y securizar entornos e integraciones en la nube (Securing Low-Code/No-Code environments).
-* ☁️ **Proyectos Cloud:** Configuración, gobierno y despliegue seguro de arquitecturas en Microsoft Azure.
-* 📊 **Ingeniería de Datos:** Estructurando e integrando flujos eficientes de datos para la toma de decisiones.
+* ☁️ **Proyectos Cloud & DevSecOps:** Configuración, gobierno y automatización de despliegues seguros en infraestructuras de **Microsoft Azure**.
+* 🛡️ **Seguridad Defensiva y Pentesting:** Aplicando mi experiencia para auditar redes, analizar vulnerabilidades y securizar entornos corporativos.
+* ⚙️ **Integración Continua (CI/CD):** Implementando pipelines de seguridad integrados directamente en el ciclo de vida del software.
+* 🛠️ **Proyectos Maker (Hardware):** Aplicando la tecnología al mundo físico; desde la diagnosis electrónica por OBD2 de mi vehículo, hasta el diseño y fabricación de piezas customizadas mediante impresión 3D.
 
 ---
 
-### Conéctate conmigo:
+### 📫 Conéctate conmigo:
 <br>
 
 <div align="center">
@@ -77,9 +77,9 @@ Para potenciar mi perfil técnico, cuento con las siguientes certificaciones de 
   <a href="https://www.linkedin.com/in/angel-gallego-jimenez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
   </a>
-  <!-- Outlook -->
-  <a href="mailto:angelgj01@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="40" alt="Outlook" />
+  <!-- Correo Profesional -->
+  <a href="mailto:Angelgj01@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height="40" alt="ProtonMail" />
   </a>
   <!-- GitHub -->
   <a href="https://github.com/AngelGallego01" target="_blank">
